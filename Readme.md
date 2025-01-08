@@ -43,6 +43,6 @@ Este é um projeto simples para baixar vídeos do YouTube utilizando o `yt-dlp` 
 
 - **LinkedIn**: [José Fernandes Santos Lima](https://www.linkedin.com/in/josefernandessantoslima/)
 - **Canal no YouTube**: [CodeKils](https://www.youtube.com/@codekils)
-- **Facebook**: [@seutwitter](https://www.facebook.com/cold.fernandes.923)
+- **Facebook**: [@cold.fernandes.023](https://www.facebook.com/cold.fernandes.923)
 
     
