@@ -1,4 +1,4 @@
-# Nome do Projeto - Baixar Vídeo do YouTube
+#  Aplicação Node.js com yt-dlp - Baixar Vídeo do YouTube
 
 Este é um projeto simples para baixar vídeos do YouTube utilizando o `yt-dlp` e o Node.js. Com essa aplicação, você pode baixar vídeos diretamente da URL fornecida, escolher a qualidade e o formato desejado, e até selecionar um diretório para salvar os arquivos.
 
