@@ -35,8 +35,6 @@ Este é um projeto simples para baixar vídeos do YouTube utilizando o `yt-dlp` 
     ```bash
     npm start
 
-### Detalhes do que foi adicionado:
-
 - **Aviso Legal**: Uma seção destacada com a recomendação sobre a violação das diretrizes do YouTube ao baixar vídeos e a ênfase de que o projeto foi desenvolvido **exclusivamente para fins educacionais**.
 
 ### Você pode me encontrar nas redes sociais:
