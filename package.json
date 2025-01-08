@@ -1,0 +1,24 @@
+{
+  "name": "appnodejsytdl",
+  "version": "1.0.0",
+  "description": "aplicacao nodejs para baixar videos do youtube em alta qualidade.",
+  "homepage": "https://github.com/Ferdnan/appNodejsYtdl#readme",
+  "bugs": {
+    "url": "https://github.com/Ferdnan/appNodejsYtdl/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdnan/appNodejsYtdl.git"
+  },
+  "license": "MIT",
+  "author": "Jose Fernandes Santos Lima",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "readline": "^1.3.0",
+    "youtube-dl-exec": "^3.0.12"
+  }
+}
